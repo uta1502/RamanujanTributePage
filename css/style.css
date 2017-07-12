@@ -1,0 +1,55 @@
+body {
+  margin-top: 60px;
+}
+#namehead{
+  font-weight: bold;
+  color: #696969;
+}
+#secondhead{
+  font-style:italic; 
+  color: black;
+  font-weight: bold;
+}
+
+#image{
+  border-radius:50%;
+  background-color:black;
+}
+
+#firstbody{
+  font-size:20px;
+  font-style:italic;
+}
+
+#timelinehead{
+  font-style:italic;
+  text-decoration:underline;
+  
+}
+#timeline{
+  font-size: 20px;
+  
+  
+}
+.center{
+   text-align: center;
+}
+
+#quotebyram{
+  font-size: 30px;
+  font-style: italic;
+  color: #696969;
+  text-align: center;
+}
+
+#quotename{
+  font-size: 20px;
+  color: black;
+  font-style: italic;
+  text-align: center;
+  
+}
+
+#main{
+  font-family: Calibri;
+}
